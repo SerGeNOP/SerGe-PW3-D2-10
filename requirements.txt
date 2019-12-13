@@ -4,4 +4,5 @@ certifi==2019.11.28
 requests==2.22.0
 requests-toolbelt==0.9.1
 sentry-sdk==0.13.5
+gunicorn
 
